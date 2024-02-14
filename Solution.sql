@@ -20,3 +20,4 @@ FROM
     RankedEmployees
 WHERE
     rank = 1;
+ -- the outcome was simple as the given data and fields were properly allocated and entered into the table
