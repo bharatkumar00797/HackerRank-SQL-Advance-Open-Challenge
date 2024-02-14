@@ -1,0 +1,9 @@
+You are given a database schema with two tables: Employees and Performance. 
+The Employees table stores information about employees, including their employee_id, name, and department_id.
+The Performance table stores information about the performance ratings of employees, including their employee_id, year, and rating.
+
+Write a SQL query to find the top-performing employee in each department for the year 2023.
+If there are ties (i.e., multiple employees in the same department with the same highest rating), return all of them.
+
+The output should include the department_id, employee_id, name, and rating of the top-performing employee(s) in each department.
+
